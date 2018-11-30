@@ -20,3 +20,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+
+## Demo Video:
+
+https://www.youtube.com/watch?v=1KdMy2baE18
+
+
